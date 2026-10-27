@@ -1,0 +1,6 @@
+# Normalize line endings so the repo works on every OS.
+* text=auto eol=lf
+
+*.ps1 text eol=crlf
+*.sh  text eol=lf
+*.md  text eol=lf
